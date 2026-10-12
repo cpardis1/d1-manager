@@ -49,7 +49,7 @@ OpenAI API:
 - `OPENAI_API_KEY`: OpenAI API key for Semantic Query.
 - `OPENAI_API_URL`: You may use this with Cloudflare AI Gateway to proxy requests to OpenAI API.
 - `OPENAI_MODEL`: OpenAI API model for Semantic Query. Default to `gpt-4.1-mini`.
-
+##test
 Cloudflare AI Worker:
 
 - `AI`: Bind a Cloudflare AI Worker to this variable.
